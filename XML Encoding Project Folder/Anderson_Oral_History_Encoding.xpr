@@ -15,7 +15,7 @@
     </meta>
     <projectTree name="Anderson_Oral_History_Encoding.xpr">
         <folder path="."/>
-        <file name="../Encoding.xml"/>
-        <file name="../../../Downloads/tei-4.9.0/xml/tei/custom/schema/relaxng/tei_all.rng"/>
+        <file name="/Encoding.xml"/>
+        <file name="/tei_all.rng"/>
     </projectTree>
 </project>
