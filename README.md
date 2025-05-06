@@ -5,7 +5,7 @@ This is a template of encoding scheme of the 15-minute pilot transcript (encoded
 
 ### Files and Directories
 * anderson_oral_history_encoding.xpr - Oxygen project file
-* encoding.xml - sample encoding of the pilot script
+* HMA_OH_xxx_v1.xml - student's sample encoding of the pilot script
 * tei_all.rng - inclusive TEI grammar to check encoding against
 * tei_all.rng - inclusive TEI grammar to check encoding against
 * HMA_OH_Macilee_v1.xml - Macilee's oXygen project file
