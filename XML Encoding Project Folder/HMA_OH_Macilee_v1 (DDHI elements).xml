@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <sp>
+            <speaker>Douglas D. Anderson</speaker>
+            <p>
+               At <placeName>Onion Portage</placeName>, when <persName>[J.L.] Giddings</persName> first started excavating there with a major excavation, which was in <date when="1964">1964</date>, after he had already gone back. 
+               And there's a whole history of how he originally got to <placeName>Onion Portage</placeName> and for the main expedition. 
+               But, the thing was in <date when="1964">1964</date>, that these three families, the Greist, Downeys, and Lees would come to, 
+               with their whole families -- moved down and camped just below the main part of the archeological site. 
+               And so they were. And they’re with their kids and all. It was an actual small village there, that was all for excavating. 
+               For <persName>[J.L.] Giddings</persName>, the thing was so ideal is that these excavators were, you know, they're not young kids. 
+               That they were, you know, older Iñupiat and, they knew so much about because it was it was their lives. That when they're excavating, 
+               they pull up an object and they'd say, oh, yes. Well, this is, this is what it is, and give it an Iñupiat name, word for it, and this 
+               is how we use it. Because it was remote- it was close enough to what they’ve actually experienced. That it was really, in a way, 
+               their living remembering of their objects and all. And so, it was very useful that way. And the Iñupiat excavators were so expert on excavating 
+               that it was sort of easy. <persName>[J.L.] Giddings</persName> could just say, okay, well, this is where we'll excavate, and this. We’d lay out -- this is what we're going 
+               to do and then just turn it over to them to excavate. And it worked out really well. And then in <date when="1964">1964</date>, I joined the expedition. I was at the 
+               <placeName>University of Pennsylvania</placeName> at the time as a student, on that, and, I joined the crew at <placeName>Onion Portage</placeName>. 
+               Before, I was going to go on up to the <placeName>Noatak River</placeName> for my own research, my own doctoral research. But, I spent the first part of the summer at <placeName>Onion Portage</placeName>. So, I got to know 
+               all of these families really well. And was able to excavate at <placeName>Onion Portage</placeName> there before I went on to <placeName>the Noatak [River]</placeName>. Then, after that field season, though, 
+               and so in <date when="1964-09">September</date>, <date when="1964-10">October</date>, after <persName>[J.L.] Giddings</persName> had returned here to <placeName>Brown</placeName>, that was when he had his car accident that actually ended up, actually killing him, 
+               and then. And that happened in <date when="1964-11">November ‘64</date>, I believe it was. Or maybe the beginning of December. Just at that time, I was back at <placeName>[University of] Penn[sylvania]</placeName> there doing my 
+               final class work, on that. And, was asked to come up, and the question was the Onion Portage expedition was already, had really hit the news, 
+               especially the archeological news, on that. And so, it was recognized that it was such an important site because it was a stratified site. I mean, as you know, 
+               the archeological work in the Arctic, you very rarely find stratified sites on this. Primarily because there's very little soil formation, on that. So, whatever's happening, 
+               it's on, people living on the surface, but there isn’t any soil build up or anything like that, usually. So, everything is right on the surface or just in the sod level, you know. 
+               So, maybe even 10,000 years worth of living is represented within a very narrow, very thin layer of sod. <placeName>Onion Portage</placeName> is very different because that one, 
+               for a number of geological reasons, ended up being something like about close to five meters deep, all stratified. I mean, really was amazing. 
+               So, it was a very, very important site that everybody, in the archeological world especially, knew about this. And when <persName>[J.L.] Giddings</persName> died, and 
+               <persName>[J.L.] Giddings</persName> had a National Science Foundation grant to continue with a major expedition there. But when he died, then the big question was, what does one do? 
+               That's because, who's going to take over, and all. And, <persName>[J.L.] Giddings</persName>, himself, had not. After his accident, he was in the hospital and his main worry was that 
+               I'm not going to be well enough or recovered enough to continue the excavations this coming summer. And this is what he's thinking after, right after, his accident in November. 
+               And so, he said that, well, in order to have some continuity, I think we could let a student of mine, who was now at <placeName>[University of] Pennsylvania</placeName>, that was talking about me. 
+               Said, might he's one has had enough experience now that, let him take over until I'm well enough to continue. But then, of course, and then he died, on this. 
+               So, the university negotiated or discussed with my professor at <placeName>[University of] Penn[sylvania]</placeName>, <persName>Froelich Rainey</persName>, who was one of Giddings’ close friends. And, in fact, 
+               a close friend from the 1930s at the <placeName>University of Alaska</placeName>, on that. And so they went and ended up that well, they'll have me as, even though I'm a student still, 
+               they'll have me take over the field operation. But, since I'm only a student, I surely can’t, you know, take over the whole thing. 
+               And, what they did was arrange to have <persName>[Froelich] Rainey</persName> become the director of the project with me as sort of the field director. And <persName>[Froelich] Rainey</persName>, was appointed by the <orgName>Brown University</orgName>
+               as a visiting professor for <date when="1965">1965</date> then, for that field season, with me as the field director. And that's how I first got to take over the work at <placeName>Onion Portage</placeName>, on that. 
+               It was the same crew, fortunately, the <listPerson><persGrp>Lees</persGrp></listPerson>, the Geists, and the
+            </p>
+         </sp>
+         <sp>
+            <speaker>Wanni W. Anderson</speaker>
+            <p>
+               Greist.
+            </p>
+         </sp>
+         <sp>
+            <speaker>Douglas D. Anderson</speaker>
+            <p>
+               <persName>Nelson Greist</persName>, Greist.
+            </p>
+         </sp>
+         <sp>
+            <speaker>Wanni W. Anderson</speaker>
+            <p>
+               Greist.
+            </p>
+         </sp>
+         <sp>
+            <speaker>Douglas D. Anderson</speaker>
+            <p>
+               Greist not Geist. That’s another archeologist up there with Greist, and with Downey's, those three families that were there. 
+               So, for me, it was a rather seamless, as far as getting the transition, because the old crew was there. 
+               They had moved back down from they wintered, of course, in their village in <placeName>Ambler</placeName>. But then for the summer, 
+               they moved back down to <placeName>Onion Portage</placeName> and set up their own camps, and all. And so that's for the <date when="1965">1965</date> season, 
+               which is my original season there. And, I had two, actually had three of the students from Brown. 
+               Whom I met when I was first started being hired here at Brown, on this there. And of those three students, 
+               two of them went on to get their PhDs in archeology. <persName>Clifford Hickey</persName>, who then became, at the time, director of <orgName>the Boreal [Institue]</orgName>,
+               or later, director of <orgName>the Boreal Institute</orgName> at <placeName>University of Alberta</placeName>, there. And <persName>David Wyatt</persName>, who taught, in <placeName>British Columbia</placeName> after that. 
+               So, that's how things got started. By that time, the whole procedure was, that had started the year before with <persName>[J.L.] Giddings</persName>, 
+               is that all of the material, archeological material, then would be packed up in <placeName>Alaska</placeName> and shipped back here to the <orgName>Haffenreffer Museum</orgName> for analysis. 
+               And so we continue with that procedure then for years after that, on that. And so, that's the way I just got started here.
+            </p>
+         </sp>
+         <sp>
+            <speaker>James Whitney</speaker>
+            <p>
+               Yeah, that's a great introduction to kind of what I was interested in, in terms of the families and, and the whole scene in <placeName>Onion Portage</placeName>.
+            </p>
+         </sp>
+         <sp>
+            <speaker>Douglas D. Anderson</speaker>
+            <p>
+               Yeah.
+            </p>
+         </sp>
+         <sp>
+            <speaker>James Whitney</speaker>
+            <p>
+               So, <persName>Wanni</persName>, maybe you wanted to introduce yourself. And was it <date when="1965">1965</date>, then, the first season that you went up?
+            </p>
+         </sp>
+         <sp>
+            <speaker>Wanni W. Anderson</speaker>
+            <p>
+               Yes.
+            </p>
+         </sp>
+         <sp>
+            <speaker>James Whitney</speaker>
+            <p>
+               To Onion Portage? Maybe you could talk about being-
+            </p>
+         </sp>
+         <sp>
+            <speaker>Douglas D. Anderson</speaker>
+            <p>
+               No, <date when="1966">'66</date>.
+            </p>
+         </sp>
+         <sp>
+            <speaker>Wanni W. Anderson</speaker>
+            <p>
+               <date when="1966">'66</date>.
+            </p>
+         </sp>
+         <sp>
+            <speaker>James Whitney</speaker>
+            <p>
+               Oh, okay.
+            </p>
+         </sp>
+         <sp>
+            <speaker>Wanni W. Anderson</speaker>
+            <p>
+               <date when="1966">'66</date>.
+            </p>
+         </sp>
+         <sp>
+            <speaker>James Whitney</speaker>
+            <p>
+               Yeah, so maybe you could talk a little bit about how you came into that?
+            </p>
+         </sp>
+         <sp>
+            <speaker>Wanni W. Anderson</speaker>
+            <p>
+               Okay.
+            </p>
+         </sp>
+         <sp>
+            <speaker>James Whitney</speaker>
+            <p>
+               The first time up in <placeName>Alaska</placeName> and everything.
+            </p>
+         </sp>
+         <sp>
+            <speaker>Douglas D. Anderson</speaker>
+            <p>
+               Go ahead.
+            </p>
+         </sp>
+         <sp>
+            <speaker>Wanni W. Anderson</speaker>
+            <p>
+               Okay. I.
+            </p>
+         </sp>
+         <sp>
+            <speaker>Paul (need full name)</speaker>
+            <p>
+               Talk to him.
+            </p>
+         </sp>
+         <sp>
+            <speaker>Wanni W. Anderson</speaker>
+            <p>
+               I just became involved with the excavation at <placeName>Onion Portage</placeName> through Doug’s work. And, my first field season was in <date when="1966">1966</date>. 
+               At the time, we were still at the <placeName>University of Pennsylvania</placeName>. And, at the time, it was just beginning to be interested in 
+               the view of folklore and anthropology. So, by going to join the expedition, I gained a lot of experience how to do ethnographic work, 
+               which became an excellent foundation for my own work later on, on my doctoral dissertation in <placeName>Thailand</placeName>. 
+               My work in <placeName>Onion Portage</placeName> was as a field assistant. My first year, especially, was a rough one because before going to work there, 
+               I had, be coming from <placeName>Thailand</placeName>, I never had that camping experience. So, camping life was something completely new. 
+               But, and fortunately, <persName>Betts Giddings</persName>, Dr. Giddings’ wife, was a very excellent person to help initiate me into 
+               what's to expect and how do you try to live a life as a camper in, within, the field situation. 
+               We, <persName>Betts [Giddings]</persName>, put on her tent up on the hill next to the Giddings cabin. <persName>Dr. [J.L.] Giddings</persName>, I guess, got the allowance to have 
+               the land on top of the excavation site. And he had the log cabin built, so <persName>Betts [Giddings]</persName> put up a tent there, and we put our tent next to her. 
+               While the crew and the students prefer to stay down closer to the river. So, that's the set up during the excavation. 
+               My responsibility at the time, it was to assist in the excavation for half a day. I generally dug beside <persName>Betts [Giddings]</persName>, looking at how she did it 
+               and follow her example. And, sometimes some of the crew members said, Wanni, would you like to come and dig by me? I have a lot of things to find. 
+               It’d be exciting to find something. So, I would go over to the next area and dig with them. And that's how I started to build the 
+               rapport with the crew members and the other students that joined the expedition. Usually, we took a break around 10:30, and that was called 
+               the Kool-Aid time. <persName>Betts [Giddings]</persName> would go to make the Kool-Aid, I would assist her, and we had half an hour Kool-Aid break. And then again, 
+               a Kool-Aid break around three o’clock in the afternoon. And we usually dug until five o’clock.
+            </p>
+         </sp>
+         <sp>
+            <speaker>Douglas D. Anderson</speaker>
+            <p>
+               Yeah.
+            </p>
+         </sp>
+         <sp>
+            <speaker>Wanni W. Anderson</speaker>
+            <p>
+               Nine o’clock to five o’clock was our working hours. In the expedition, <persName>Clara Lee</persName>, who was the wife of Tommy Lee, was hired as our cook. 
+               And as her assistant she brought along, at the first few years, her oldest daughter, <persName>Helen[a Lee]</persName>.
+            </p>
+         </sp>
+         <sp>
+            <speaker>Douglas D. Anderson</speaker>
+            <p>
+               <persName>Helena [Lee]</persName>.
+            </p>
+         </sp>
+         <sp>
+            <speaker>Wanni W. Anderson</speaker>
+            <p>
+               <persName>Helena [Lee]</persName>. <persName>Helena [Lee]</persName>.
+               
+            </p>
+         </sp>
+         <sp>
+            <speaker>Douglas D. Anderson</speaker>
+            <p>
+               <persName>Helena [Lee]</persName>.
+            </p>
+         </sp>
+         <sp>
+            <speaker>Wanni W. Anderson</speaker>
+            <p>
+               <persName>Helena [Lee]</persName>. And later on, she also brought in her second daughter, <persName>Myra Lee</persName>. 
+               And, another year, another daughter, <persName>Alice Lee</persName>. So, we had a very close connection with the Lee family and 
+               were all camping over at the crew camping site, down close to the river. I excavated for half a day and <persName>Doug[las D. Anderson]</persName> was interested 
+               in starting training me to become an anthropologist. So, he would allowed me to go over to the camp and work with the women 
+               and see what they were doing during the day. Usually, the camping during the summertime in an area outside the village is part 
+               of the Iñupiat summer subsistence activities. So, being there is, more or less, the way they used to do, even if their husband 
+               were not excavators at the site. So, I would be there when they had caught fish in the fishnet. I would be there with the cameras 
+               taking their photographs and took pictures of them cutting the fish, with them up on the rack to dry it up. And <persName>Clara Lee</persName>, especially, 
+               she is such a skilled stitcher of skin clothing. And, we have in our collection the works made by <persName>Clara Lee</persName> -- mukluks and 
+               two skin clothing. The skin clothing we commission her to make for us when we expected to stay.and spend the whole winter in Selawik 
+               and we didn't have a good enough winter clothing. And she said that, well, I could do it, but our area doesn't have enough muskrats. 
+               The best area to get the muskrat is when it’s in <placeName>Selawik</placeName>. So,we went to <placeName>Selawik</placeName>, we bought the muskrats, muskrat skins, and she would 
+               cut them up and make them into clothing. And the Eskimo style, that making the skin clothing was the men's clothing would be made with 
+               the backbone part of the animal. And the lighter color part, the belly part, would be made into women's clothing. So, we cut about, 
+               60 or 70 skins from <placeName>Selawik</placeName>. And we were able to have two winter parkas made by <persName>Clara Lee</persName>, and who was our cook. So, that's how it happened 
+               that we were able to have warm clothing during our year in <placeName>Selawik</placeName>. And the collection, those two pieces of clothing would be part of the 
+               <orgName>Haffenreffer Museum</orgName> collection.
+            </p>
+         </sp>
+      </body>
+  </text>
+</TEI>
